@@ -1,1 +1,1 @@
-# PCA9685---multiple-servo-control-using-Arduino
+# PCA9685-multiple-servo-control-using-Arduino
