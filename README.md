@@ -1,6 +1,8 @@
 # PCA9685-multiple-servo-control-using-Arduino
 ![blog-titile1](https://github.com/Circuit-Digest/PCA9685-multiple-servo-control-using-Arduino/assets/85298596/ff7cebc5-b324-4e81-a9f0-bb2a3d0806a6)
 
+[PCA9685 Multiple Servo Control using Arduino](https://circuitdigest.com/microcontroller-projects/pca9685-multiple-servo-control-using-arduino) - Tutorial on controlling multiple servos using PCA9685 with Arduino.
+
 ## 🧰 Components
 - Arduino Uno R3
 - 8 * SG90 Servo Motor
